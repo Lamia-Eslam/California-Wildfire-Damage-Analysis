@@ -1,5 +1,5 @@
 # California-Wildfire-Damage-Analysis
-Project Description:
+**Data Analytics Project**
 Wildfires in California have caused extensive destruction, resulting in financial losses, property damage, and human casualties. This project focuses on analyzing the California Wildfire Damage Dataset (2014 – February 2025) to uncover key trends, assess wildfire impacts, and provide data-driven insights for disaster management, risk assessment, and policy-making.
 
 The dataset includes records of wildfire incidents across California, containing details such as:

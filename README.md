@@ -20,5 +20,4 @@ By analyzing these patterns, we aim to:
 Methodology & Tools
 - Data Cleaning & Preprocessing: Python (Pandas, NumPy, Seaborn, Matplotlib)
 - Database & Querying: SQL Server
-- Data Visualisation: Tableau
 - Visualization: Tableau

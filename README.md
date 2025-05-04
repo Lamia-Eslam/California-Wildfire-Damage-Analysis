@@ -10,6 +10,7 @@ The dataset includes records of wildfire incidents across California, containing
 - Financial losses (estimated cost of destruction in Million $)
 - Businesses, homes, and vehicles affected
 - Casualties (injuries and fatalities)
+  
 By analyzing these patterns, we aim to:
 - Identify wildfire trends over time and across locations.
 - Assess the financial impact on businesses, properties, and infrastructure.
@@ -19,5 +20,6 @@ By analyzing these patterns, we aim to:
 Methodology & Tools
 - Data Cleaning & Preprocessing: Python (Pandas, NumPy, Seaborn, Matplotlib)
 - Database & Querying: SQL Server
+- Data Visualisation: Tableau
 - Visualization: Tableau
 This project will provide researchers, policymakers, and emergency management teams with valuable insights into wildfire patterns and financial impacts, supporting more effective risk mitigation and resource planning.

@@ -22,4 +22,3 @@ Methodology & Tools
 - Database & Querying: SQL Server
 - Data Visualisation: Tableau
 - Visualization: Tableau
-This project will provide researchers, policymakers, and emergency management teams with valuable insights into wildfire patterns and financial impacts, supporting more effective risk mitigation and resource planning.

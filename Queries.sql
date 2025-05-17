@@ -36,8 +36,8 @@ SET Season =
         WHEN (month = 12 AND day >= 21) OR (month IN (1, 2)) OR (month = 3 AND day < 20) THEN 'Winter'
         WHEN (month = 3 AND day >= 20) OR (month IN (4, 5)) OR (month = 6 AND day < 21) THEN 'Spring'
         WHEN (month = 6 AND day >= 21) OR (month IN (7, 8)) OR (month = 9 AND day < 23) THEN 'Summer'
-        ELSE 'Fall'
-    END
+        ELSEÂ 'Fall'
+Â Â Â Â END
 
 SELECT * FROM raw  --Changes done
 
